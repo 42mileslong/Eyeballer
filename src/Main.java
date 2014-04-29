@@ -9,4 +9,12 @@
  * Runs commands
  */
 public class Main {
+
+    /**
+     *
+     * @param args Unused parameters
+     */
+    public static void main(String args[]) {
+
+    }
 }
